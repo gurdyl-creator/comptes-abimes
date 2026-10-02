@@ -1,6 +1,0 @@
-text
-streamlit
-pandas
-openpyxl
-easyocr
-reportlab
